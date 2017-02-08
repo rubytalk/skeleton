@@ -1,0 +1,2 @@
+# skeleton
+Basic Rails App
